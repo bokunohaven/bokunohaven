@@ -1,6 +1,6 @@
 # Hello! I'm Afonso 👋
 
-I am currently a Computer Engineering student based in Porto. My goal is to grow professionally and evolve as a Software Developer through continuous learning and hands-on projects.
+I am currently a Computer Engineering student living in Porto. My goal is to grow professionally and evolve as a Software Developer through continuous learning and hands-on projects.
 
 * 🚀 Currently focusing on **Fullstack Development**.
 * 🧪 Passionate about **OOP** and writing clean code.
